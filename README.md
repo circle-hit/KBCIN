@@ -1,4 +1,8 @@
 # KBCIN
+
+* Code for [AAAI 2023](https://aaai.org/Conferences/AAAI-23/) accepted paper titled "Knowledge-Bridged Causal Interaction Network for Causal Emotion Entailment"
+* Weixiang Zhao, Yanyan Zhao, Zhuojun Li, Bing Qin.
+
 ## Requirements
 * Python 3.7
 * PyTorch 1.8.2
