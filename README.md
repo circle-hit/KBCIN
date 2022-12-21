@@ -11,6 +11,18 @@
 
 ## Preparation
 
+### Processing Features
+To obtain dataset features:
+
+`python get_data.py`
+
+To obtain commonsense features:
+`cd comet-atomic-2020/models/comet_atomic2020_bart`
+
+Download the pretrained model in download_model.sh
+
+Then run ./generate_knowledge.py to get csk features
+
 ### Preprocessed Features
 You can download the extracted utterance features and commonsense knowledge we used from:
 https://pan.baidu.com/s/1n0RbyztvupFLFWe80vr7kg  提取码:qeqt
